@@ -1,5 +1,5 @@
 # printf
-A simple printf function built by Caleb Nyong  and Johnel Okon for Alx software Engineering School.
+A simple printf function built for Alx software Engineering School.
 
 #Welcome
 
@@ -61,6 +61,4 @@ write (man 2 write) malloc (man 3 malloc) free (man 3 free) va_start (man 3 va_s
 
 #Authors
 
-Caleb Nyong
-
-Johnel Okon
+copied/
